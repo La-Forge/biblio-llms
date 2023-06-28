@@ -1,5 +1,5 @@
 # biblio-llms
 ## 1) description
 ### 1.1) summary
-
-This is a library
+- pre-prompting method for medicine field
+- pre-prompting method for computer science field
