@@ -1,2 +1,8 @@
 # Medicine 
-## 1) pre prompting for cardiology
+## 1) Method
+### 1.1) Define your field of application
+### 1.2) Identify the purpose of the conversation
+### 1.3) Give context
+### 1.4) Provide real datas
+### 1.5) Define the desired output
+### 1.6) Ask your question
