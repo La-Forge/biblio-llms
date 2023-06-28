@@ -6,5 +6,5 @@
 ### 1.4) Provide real datas
 ### 1.5) Define the desired output
 ### 1.6) Ask your question
-## 2) Recommandation
+## 2) Recommandations
 
